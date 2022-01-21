@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus } from '@fortawesome/free-solid-svg-icons';
 import ItensListaTarefas from './itens-lista-tarefas';
 import Paginacao from './paginacao';
-import Ordenacao from './ordenacao.js';
+import Ordenacao from './ordenacao.jsx';
 import axios from 'axios';
 
 function ListarTarefas() {
